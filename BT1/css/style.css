@@ -5,7 +5,8 @@
 	padding: 5px;
 	font-family: tahoma;
 }
-#wrapper h1{
+
+#wrapper h1 {
 	font-size: 18px;
 	color: #9e4f3e;
 	padding: 10px 25px;
@@ -13,46 +14,56 @@
 	border-top: 1px dotted gray;
 	font-weight: normal;
 }
-li{
+
+li {
 	border-bottom: 1px dotted gray;
 	padding: 8px 0;
-	width: 690px;	
+	width: 690px;
 }
-h2{
+
+h2 {
 	margin-bottom: 5px;
 }
-a{
+
+a {
 	font-size: 15px;
 	color: #d8141d;
 	text-decoration: none;
 }
-.left{
+
+.left {
 	float: left;
 	margin-right: 10px;
 }
-.left img{
+
+.left img {
 	width: 128px;
 	height: 87px;
 	padding: 2px;
 	border: 1px solid gray;
 	border-radius: 8px;
 }
-.right{
+
+.right {
 	float: left;
 	width: 540px;
 }
-.right .description{
+
+.right .description {
 	font-size: 15px;
 	margin-bottom: 20px;
 	line-height: 20px;
 }
-.right .more{
+
+.right .more {
 	font-size: 16px;
 	color: #d8141d;
 }
-.price{
+
+.price {
 	font-weight: bold;
 }
-.clr{
+
+.clr {
 	clear: both;
 }
